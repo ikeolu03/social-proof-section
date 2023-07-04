@@ -159,7 +159,7 @@ body{
     }
 
     .testimonial{
-        width: 320px;
+        width: 250px;
     }
 
     .testimonial-irene{
@@ -174,5 +174,11 @@ body{
 @media(min-width: 700px) and (max-width: 880px){
     .testimonial{
         width: 200px;
+    }
+}
+
+@media (min-width:1280px){
+    .testimonial{
+        width: 300px;
     }
 }
